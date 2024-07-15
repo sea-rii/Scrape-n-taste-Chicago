@@ -18,12 +18,11 @@ Requirements
 
 Installation
 - Clone the repository or download the script.
-- Install the required Python libraries:
+- Install the required Python libraries:  
   pip install requests beautifulsoup4
 
 
 Code Explanation
-The script performs the following steps:
 - Initialization: Sets up the list of pages to scrape and an empty list for visited pages and scraped items.
 - Scraping Loop: Loops through the pages to scrape and processes each one.
 - Extracting Data: Selects and extracts restaurant data from the HTML content.
