@@ -26,7 +26,16 @@
 - Install the required Python libraries:
   
      `pip install requests beautifulsoup4`
- 
+
+
+ ## Usage
+- Open the script in a text editor or an IDE.
+- Modify the 'pages_to_scrape' list to include the initial Yelp search URL if you want to start from a different page.
+- Run the script:
+  
+     `python yelp_scraper.py`
+- The script will scrape restaurant data from Yelp and save it into a file named 'restaurants.csv' in the same directory.
+
 
 
 ## Code Explanation
