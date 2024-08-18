@@ -1,4 +1,4 @@
-# Yelp Restaurant Review Scraper
+# Scrape 'n' Taste Chicago
 
 - The Yelp Restaurant Review Scraper is a Python script designed to collect restaurant data from Yelp for the Chicago area. 
 - It uses the requests library to download web pages and BeautifulSoup to parse the HTML content. 
